@@ -1,0 +1,8 @@
+# Providers extras
+apache-airflow-providers-microsoft-winrm
+apache-airflow-providers-smtp
+
+# Bibliotecas úteis
+pandas
+requests
+pytest
